@@ -4,7 +4,7 @@ int main()
 char c;
 int lowervowel,uppervowel;
 
-printf("\n Enter the alphabet");
+printf("\n Enter a alphabet");
 scanf("%d",alphabet);
 
 
